@@ -1,0 +1,12 @@
+{
+    "name": "WidgetTree",
+    "type": "Library",
+    "execute": {
+        "unpack": [
+            "WidgetTreeLib.lua"
+        ]
+    },
+    "files": {
+        "WidgetTreeLib.lua": 20
+    }
+}
