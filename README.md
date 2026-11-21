@@ -19,7 +19,7 @@ widgetTree( "ChatLog" )
 ```
 
 Дерево в mods.txt
-```
+```lua
 common.GetAddonMainForm = {
     ChatLog (WidgetForm) = {
         Target (WidgetPanel),
